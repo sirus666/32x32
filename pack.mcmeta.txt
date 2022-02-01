@@ -1,0 +1,1 @@
+{"pack":{"description":"32x test textures by Sirus","pack_format":8}}
