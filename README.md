@@ -1,12 +1,11 @@
 # 32x32
-minecraft 32x textures
 
-![2024-04-08_00 06 31](https://github.com/sirus666/32x32/assets/97774491/6881f9a3-32c1-4752-9f5b-bc8f3d0eabb4)
-![2024-04-08_00 04 52](https://github.com/sirus666/32x32/assets/97774491/02bfca24-8268-42bf-b061-0bd7bc04905f)
-![2024-04-08_00 10 36](https://github.com/sirus666/32x32/assets/97774491/d07b4af7-3b44-4406-aeed-767c880b0e6c)
+![2024-04-08_00 21 46](https://github.com/sirus666/32x32/assets/97774491/392984ae-dbb4-4b14-8a0f-c9304b3bacc0)
+![2024-04-08_00 24 14](https://github.com/sirus666/32x32/assets/97774491/daf93e24-3334-4abd-8273-a002169f4631)
+![2024-04-08_00 22 07](https://github.com/sirus666/32x32/assets/97774491/71ead791-5c84-4a0f-a557-dea638e0e84f)
+![2024-04-08_00 22 22_2](https://github.com/sirus666/32x32/assets/97774491/e74bb725-9256-4c55-b121-b61e33daa715)
+![2024-04-08_00 10 36](https://github.com/sirus666/32x32/assets/97774491/996bed4d-047c-4cbe-a10f-53d3640a818e)
+![2024-04-08_00 06 31](https://github.com/sirus666/32x32/assets/97774491/b12e3c1d-f3b7-4d3d-8faf-2216495d5426)
 
 
-![2022-02-01_16 58 16](https://user-images.githubusercontent.com/97774491/151952532-9335e8c1-4e14-4166-b132-ad31a55009cf.png)
-tiled images for amethyst and brain coral (might be changed in the future)
-![amethyst_block_tiles_enlarged](https://user-images.githubusercontent.com/97774491/151940132-905d4415-dc8d-49e9-9506-362b7dfe8577.png)
-![brain_coral_block_tiles_enlarged](https://user-images.githubusercontent.com/97774491/151940141-912e8505-28fd-48da-a374-0b26d4edaa07.png)
+![2024-04-08_00 20 27](https://github.com/sirus666/32x32/assets/97774491/14b4fb2f-e1b5-4310-9b0e-726ae4b586bf)
