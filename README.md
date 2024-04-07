@@ -1,2 +1,1 @@
-# ngh
-minecraft 32x textures
+# x32
