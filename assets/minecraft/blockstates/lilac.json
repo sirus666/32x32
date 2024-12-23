@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "half=lower": [
+      {
+      "model": "minecraft:block/lilac_bottom",
+      "weight":25
+    },
+    {
+      "model": "minecraft:block/lilac_bottom1",
+      "weight":25
+    },
+    {
+      "model": "minecraft:block/lilac_bottom2",
+      "weight":25
+    },
+    {
+      "model": "minecraft:block/lilac_bottom3",
+      "weight":25
+    }
+  ],
+    "half=upper": [
+      {
+      "model": "minecraft:block/lilac_top",
+      "weight":25
+    },
+    {
+      "model": "minecraft:block/lilac_top1",
+      "weight":25
+    },
+    {
+      "model": "minecraft:block/lilac_top2",
+      "weight":25
+    },
+    {
+      "model": "minecraft:block/lilac_top3",
+      "weight":25
+    }
+  ]
+  }
+}
