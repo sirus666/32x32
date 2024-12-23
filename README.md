@@ -1,5 +1,7 @@
 # 32x32
 
+theres some new ones but im too lazy to post
+
 ![2024-04-08_00 21 46](https://github.com/sirus666/32x32/assets/97774491/392984ae-dbb4-4b14-8a0f-c9304b3bacc0)
 ![2024-04-08_00 24 14](https://github.com/sirus666/32x32/assets/97774491/daf93e24-3334-4abd-8273-a002169f4631)
 ![2024-04-08_00 22 07](https://github.com/sirus666/32x32/assets/97774491/71ead791-5c84-4a0f-a557-dea638e0e84f)
