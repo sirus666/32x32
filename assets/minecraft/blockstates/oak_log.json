@@ -3,14 +3,52 @@
     "axis=x": [{
       "model": "minecraft:block/oak_log_horizontal",
       "x": 90,
-      "y": 90,
-      "weight":60
+      "y": 90
     },
     {
       "model": "minecraft:block/oak_log_horizontal1",
       "x": 90,
-      "y": 90,
-      "weight":40
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/oak_log_horizontal2",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/oak_log_horizontal3",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/oak_log_horizontal4",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/oak_log_horizontal5",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/oak_log_horizontal6",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/oak_log_horizontal7",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/oak_log_horizontal8",
+      "x": 90,
+      "y": 90
+    },
+    {
+      "model": "minecraft:block/oak_log_horizontal9",
+      "x": 90,
+      "y": 90
     }
   ],
     "axis=y": [
@@ -26,13 +64,43 @@
     "axis=z": [
       {
       "model": "minecraft:block/oak_log_horizontal",
-      "x": 90,
-      "weight": 60
+      "x": 90
     },
     {
       "model":"minecraft:block/oak_log_horizontal1",
-      "x": 90,
-      "weight":40
+      "x": 90
+    },
+    {
+      "model":"minecraft:block/oak_log_horizontal2",
+      "x": 90
+    },
+    {
+      "model":"minecraft:block/oak_log_horizontal3",
+      "x": 90
+    },
+    {
+      "model":"minecraft:block/oak_log_horizontal4",
+      "x": 90
+    },
+    {
+      "model":"minecraft:block/oak_log_horizontal5",
+      "x": 90
+    },
+    {
+      "model":"minecraft:block/oak_log_horizontal6",
+      "x": 90
+    },
+    {
+      "model":"minecraft:block/oak_log_horizontal7",
+      "x": 90
+    },
+    {
+      "model":"minecraft:block/oak_log_horizontal8",
+      "x": 90
+    },
+    {
+      "model":"minecraft:block/oak_log_horizontal9",
+      "x": 90
     }
   ]
   }
