@@ -1,1 +1,6 @@
-{"pack":{"description":"32x test textures by Sirus, discord: Sirus#0340","pack_format":9}}
+{
+  "pack": {
+    "pack_format": 46,
+    "description": "32x32"
+  }
+}
